@@ -1,1 +1,1 @@
-https://github.com/TJkhalid/markdown-portfolio/settings
+[text](https://example.com)
