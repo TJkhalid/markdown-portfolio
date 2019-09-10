@@ -1,4 +1,4 @@
--hello
--sup
--no
--yes
+- hello
+- sup
+- no
+- yes
